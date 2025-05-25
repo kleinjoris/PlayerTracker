@@ -1,9 +1,3 @@
-# PlayerTracker: Neural Basketball Assistant
-
-Final Project of Applied Deep Learning 2017 in NTU.
-
-Track the movements of NBA players and map them onto a tactic board.  
-
 ## System Pipeline  
 
 ### 0. Preprocessing : 
@@ -95,23 +89,3 @@ Final Compare :
 - pickle
 - python3.6
 - sklearn
-
----
-
-### Contributors:
-Team : ADL 躺分仔
-- 李承軒 B03902009 https://github.com/Spicy30  
-- 陳雋 B03902033 https://github.com/falloutboyrocks  
-- 顏廷宇 B03902052 https://github.com/y95847frank  
-- 紀典佑 B03902059 https://github.com/dianyo  
-- 邵楚荏 B03902090 https://github.com/nickshao 
-
----
-
-### Reference
-
-[1] S. Ren, K. He, R. Girshick, and J. Sun. Faster r-cnn: To- wards real-time object detection with region proposal net- works.  
-
-[2] Joseph Redmon, Santosh Divvala, Ross Girshick, and Ali Farhadi. You Only Look Once: Unified, Real-Time Object Detection.  
-
-[3] Evan Cheshire, Cibele Halasz, and Jose Krause Perin. Player Tracking and Analysis of Basketball Plays.   
